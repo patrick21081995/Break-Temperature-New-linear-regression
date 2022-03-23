@@ -8,5 +8,6 @@ https://colab.research.google.com/drive/1dzYHzVLp3M40YMcSicOILUjs4StpLiLt?usp=sh
 
 Contact:
 
+- Site: https://www.patrickdosanjos.com/
 - E-mail: patrick.dosanjos@outlook.com
 - Linkedin: https://www.linkedin.com/in/patrick-queiroz-dos-anjos/
